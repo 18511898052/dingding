@@ -1,3 +1,4 @@
 <!-- 视图层 -->
 <view> Hello {{name}}! </view>
-<button onTap="changeName"> Click me! Ha Ha</button>
+<button onTap="changeName"> Click me! SUCCESS</button>
+
